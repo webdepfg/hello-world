@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Trying to figure GitHub out and hopefully soon, I'll be able to use it. 
+
+
